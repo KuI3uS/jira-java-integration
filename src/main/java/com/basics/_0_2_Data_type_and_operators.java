@@ -1,6 +1,6 @@
 package main.java.com.basics;
 
-public class _0_2_data_type_and_operators {
+public class _0_2_Data_type_and_operators {
     public static void main(String[] args) {
 
         double a = 10;
