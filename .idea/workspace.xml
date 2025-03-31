@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71d240a-8a09-409d-b317-6e278514133d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_0_3_OperacjeFinansowe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/basics/_0_2_data_type_and_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basics/_0_2_Data_type_and_operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basics/_05_ComparisonOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basics/_05_ComparisonOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basics/_06_LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basics/_06_LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basics/_07_ConditionalInstructions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basics/_07_ConditionalInstructions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basics/_0_4_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basics/_0_4_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/homework/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/Homework03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +37,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Homework01.executor": "Run",
-    "Application.Homework02.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application._0_2_data_type_and_operators.executor": "Run",
-    "Application._0_3_OperacjeFinansowe.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Homework01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_ComparisonOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_LogicalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_ConditionalInstructions.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0_2_data_type_and_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0_3_OperacjeFinansowe.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0_4_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application._0_3_OperacjeFinansowe">
-    <configuration name="Homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Homework01" />
+}</component>
+  <component name="RunManager" selected="Application.Homework04">
+    <configuration name="Homework03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Homework03" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Homework02" />
+    <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Homework04" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -76,15 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="jira-java-integration" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_0_2_Data_type_and_operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._0_2_Data_type_and_operators" />
+    <configuration name="_05_ComparisonOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._05_ComparisonOperators" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +100,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0_3_OperacjeFinansowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._0_3_OperacjeFinansowe" />
+    <configuration name="_06_LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._06_LogicalOperators" />
+      <module name="jira-java-integration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_ConditionalInstructions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._07_ConditionalInstructions" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._0_3_OperacjeFinansowe" />
-        <item itemvalue="Application.Homework02" />
-        <item itemvalue="Application._0_2_Data_type_and_operators" />
-        <item itemvalue="Application.Homework01" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Homework04" />
+        <item itemvalue="Application._07_ConditionalInstructions" />
+        <item itemvalue="Application._06_LogicalOperators" />
+        <item itemvalue="Application._05_ComparisonOperators" />
+        <item itemvalue="Application.Homework03" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +153,10 @@
       <option name="presentableId" value="Default" />
       <updated>1743007776958</updated>
       <workItem from="1743007777967" duration="5054000" />
-      <workItem from="1743152704603" duration="4628000" />
+      <workItem from="1743152704603" duration="9862000" />
+      <workItem from="1743167329899" duration="1398000" />
+      <workItem from="1743170347568" duration="681000" />
+      <workItem from="1743412891756" duration="597000" />
     </task>
     <servers />
   </component>
