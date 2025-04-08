@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71d240a-8a09-409d-b317-6e278514133d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_10_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/EvenOddSumInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/FibonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/PrimeNumbersInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/PrintNumbers1To10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/PyramidPatternPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/SumOfFirstNNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +40,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EvenOddSumInRange.executor": "Run",
+    "Application.FactorialCalculator.executor": "Run",
+    "Application.FibonacciSequence.executor": "Run",
     "Application.Homework01.executor": "Run",
     "Application.Homework02.executor": "Run",
     "Application.Homework03.executor": "Run",
@@ -42,6 +52,10 @@
     "Application.Homework07.executor": "Run",
     "Application.Homework08.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PrimeNumbersInRange.executor": "Run",
+    "Application.PrintNumbers1To10.executor": "Run",
+    "Application.PyramidPatternPrinter.executor": "Run",
+    "Application.SumOfFirstNNumbers.executor": "Run",
     "Application._05_ComparisonOperators.executor": "Run",
     "Application._06_LogicalOperators.executor": "Run",
     "Application._07_ConditionalInstructions.executor": "Run",
@@ -61,9 +75,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._10_While">
-    <configuration name="Homework07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Homework07" />
+  <component name="RunManager" selected="Application.PyramidPatternPrinter">
+    <configuration name="FactorialCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.FactorialCalculator" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Homework08" />
+    <configuration name="PrimeNumbersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.PrimeNumbersInRange" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_08_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._08_Switch" />
+    <configuration name="PrintNumbers1To10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.PrintNumbers1To10" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.basics.*" />
+          <option name="PATTERN" value="main.java.com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_09_For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._09_For" />
+    <configuration name="PyramidPatternPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.PyramidPatternPrinter" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.basics.*" />
+          <option name="PATTERN" value="main.java.com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._10_While" />
+    <configuration name="SumOfFirstNNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.SumOfFirstNNumbers" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.basics.*" />
+          <option name="PATTERN" value="main.java.com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._10_While" />
-        <item itemvalue="Application._09_For" />
-        <item itemvalue="Application.Homework08" />
-        <item itemvalue="Application._08_Switch" />
-        <item itemvalue="Application.Homework07" />
+        <item itemvalue="Application.PyramidPatternPrinter" />
+        <item itemvalue="Application.PrimeNumbersInRange" />
+        <item itemvalue="Application.SumOfFirstNNumbers" />
+        <item itemvalue="Application.PrintNumbers1To10" />
+        <item itemvalue="Application.FactorialCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +174,12 @@
       <workItem from="1743412891756" duration="2944000" />
       <workItem from="1743417793495" duration="3000" />
       <workItem from="1743427022953" duration="5567000" />
-      <workItem from="1743497801933" duration="7753000" />
+      <workItem from="1743497801933" duration="8217000" />
+      <workItem from="1743583685506" duration="1297000" />
+      <workItem from="1743597287569" duration="1000" />
+      <workItem from="1743597290464" duration="3916000" />
+      <workItem from="1743607250878" duration="2947000" />
+      <workItem from="1744112011183" duration="2106000" />
     </task>
     <servers />
   </component>
