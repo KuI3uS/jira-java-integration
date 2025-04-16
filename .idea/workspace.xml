@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71d240a-8a09-409d-b317-6e278514133d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_11_boards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_12_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_14_HaszMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,59 +32,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EvenOddSumInRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumbersInRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintNumbers1To10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PyramidPatternPrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfFirstNNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_ComparisonOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_LogicalOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_ConditionalInstructions.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application._09_For.executor&quot;: &quot;Run&quot;,
-    &quot;Application._0_2_data_type_and_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application._0_3_OperacjeFinansowe.executor&quot;: &quot;Run&quot;,
-    &quot;Application._0_4_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_While.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_boards.executor&quot;: &quot;Run&quot;,
-    &quot;Application._12_ArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EvenOddSumInRange.executor": "Run",
+    "Application.FactorialCalculator.executor": "Run",
+    "Application.FibonacciSequence.executor": "Run",
+    "Application.Homework01.executor": "Run",
+    "Application.Homework02.executor": "Run",
+    "Application.Homework03.executor": "Run",
+    "Application.Homework04.executor": "Run",
+    "Application.Homework05.executor": "Run",
+    "Application.Homework06.executor": "Run",
+    "Application.Homework07.executor": "Run",
+    "Application.Homework08.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PrimeNumbersInRange.executor": "Run",
+    "Application.PrintNumbers1To10.executor": "Run",
+    "Application.PyramidPatternPrinter.executor": "Run",
+    "Application.SumOfFirstNNumbers.executor": "Run",
+    "Application._05_ComparisonOperators.executor": "Run",
+    "Application._06_LogicalOperators.executor": "Run",
+    "Application._07_ConditionalInstructions.executor": "Run",
+    "Application._08_Switch.executor": "Run",
+    "Application._09_For.executor": "Run",
+    "Application._0_2_data_type_and_operators.executor": "Run",
+    "Application._0_3_OperacjeFinansowe.executor": "Run",
+    "Application._0_4_Strings.executor": "Run",
+    "Application._10_While.executor": "Run",
+    "Application._11_boards.executor": "Run",
+    "Application._12_ArrayList.executor": "Run",
+    "Application._13_HashSet.executor": "Run",
+    "Application._14_HaszMap.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application._13_HashSet">
-    <configuration name="PrimeNumbersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.PrimeNumbersInRange" />
-      <module name="jira-java-integration" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application._14_HaszMap">
     <configuration name="PyramidPatternPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.homework.PyramidPatternPrinter" />
       <module name="jira-java-integration" />
@@ -139,13 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_14_HaszMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._14_HaszMap" />
+      <module name="jira-java-integration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._14_HaszMap" />
         <item itemvalue="Application._13_HashSet" />
         <item itemvalue="Application._12_ArrayList" />
         <item itemvalue="Application._11_boards" />
         <item itemvalue="Application.PyramidPatternPrinter" />
-        <item itemvalue="Application.PrimeNumbersInRange" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +181,9 @@
       <workItem from="1744188346175" duration="5025000" />
       <workItem from="1744276161777" duration="464000" />
       <workItem from="1744362214080" duration="3482000" />
+      <workItem from="1744621448432" duration="1497000" />
+      <workItem from="1744646255742" duration="1899000" />
+      <workItem from="1744793752733" duration="2815000" />
     </task>
     <servers />
   </component>
