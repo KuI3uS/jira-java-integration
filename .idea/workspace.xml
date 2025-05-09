@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71d240a-8a09-409d-b317-6e278514133d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_15_Break_continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_16_TextBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/GenderCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/LetterFrequencyCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,58 +33,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EvenOddSumInRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrom.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumbersInRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintNumbers1To10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PyramidPatternPrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfFirstNNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_ComparisonOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_LogicalOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_ConditionalInstructions.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application._09_For.executor&quot;: &quot;Run&quot;,
-    &quot;Application._0_2_data_type_and_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application._0_3_OperacjeFinansowe.executor&quot;: &quot;Run&quot;,
-    &quot;Application._0_4_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_While.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_boards.executor&quot;: &quot;Run&quot;,
-    &quot;Application._12_ArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application._13_HashSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application._14_HaszMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application._15_Break_continue.executor&quot;: &quot;Run&quot;,
-    &quot;Application._16_TextBlocks.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EvenOddSumInRange.executor": "Run",
+    "Application.FactorialCalculator.executor": "Run",
+    "Application.FibonacciSequence.executor": "Run",
+    "Application.GenderCounter.executor": "Run",
+    "Application.Homework01.executor": "Run",
+    "Application.Homework02.executor": "Run",
+    "Application.Homework03.executor": "Run",
+    "Application.Homework04.executor": "Run",
+    "Application.Homework05.executor": "Run",
+    "Application.Homework06.executor": "Run",
+    "Application.Homework07.executor": "Run",
+    "Application.Homework08.executor": "Run",
+    "Application.LetterFrequencyCounter.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Palindrom.executor": "Run",
+    "Application.PrimeNumbersInRange.executor": "Run",
+    "Application.PrintNumbers1To10.executor": "Run",
+    "Application.PyramidPatternPrinter.executor": "Run",
+    "Application.Shop.executor": "Run",
+    "Application.SumOfFirstNNumbers.executor": "Run",
+    "Application._05_ComparisonOperators.executor": "Run",
+    "Application._06_LogicalOperators.executor": "Run",
+    "Application._07_ConditionalInstructions.executor": "Run",
+    "Application._08_Switch.executor": "Run",
+    "Application._09_For.executor": "Run",
+    "Application._0_2_data_type_and_operators.executor": "Run",
+    "Application._0_3_OperacjeFinansowe.executor": "Run",
+    "Application._0_4_Strings.executor": "Run",
+    "Application._10_While.executor": "Run",
+    "Application._11_boards.executor": "Run",
+    "Application._12_ArrayList.executor": "Run",
+    "Application._13_HashSet.executor": "Run",
+    "Application._14_HaszMap.executor": "Run",
+    "Application._15_Break_continue.executor": "Run",
+    "Application._16_TextBlocks.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application._16_TextBlocks">
+}]]></component>
+  <component name="RunManager" selected="Application.LetterFrequencyCounter">
+    <configuration name="GenderCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.GenderCounter" />
+      <module name="jira-java-integration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterFrequencyCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.LetterFrequencyCounter" />
+      <module name="jira-java-integration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Palindrom" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.homework.*" />
+          <option name="PATTERN" value="main.java.com.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,33 +125,7 @@
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_14_HaszMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._14_HaszMap" />
-      <module name="jira-java-integration" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_15_Break_continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._15_Break_continue" />
-      <module name="jira-java-integration" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.basics.*" />
+          <option name="PATTERN" value="main.java.com.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterFrequencyCounter" />
+        <item itemvalue="Application.GenderCounter" />
         <item itemvalue="Application._16_TextBlocks" />
         <item itemvalue="Application.Shop" />
         <item itemvalue="Application.Palindrom" />
-        <item itemvalue="Application._15_Break_continue" />
-        <item itemvalue="Application._14_HaszMap" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +192,13 @@
       <workItem from="1744646255742" duration="1899000" />
       <workItem from="1744793752733" duration="11897000" />
       <workItem from="1744826948825" duration="3000" />
+      <workItem from="1745057525979" duration="59000" />
+      <workItem from="1745242535532" duration="1297000" />
+      <workItem from="1745400052208" duration="3052000" />
+      <workItem from="1746013723584" duration="3736000" />
+      <workItem from="1746019333617" duration="3697000" />
+      <workItem from="1746024526232" duration="3176000" />
+      <workItem from="1746778606705" duration="4155000" />
     </task>
     <servers />
   </component>
