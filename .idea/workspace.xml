@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71d240a-8a09-409d-b317-6e278514133d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/CommonNamesFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/CapitalCityLookup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/NameIndexSearcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/NameListManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CapitalCityLookup.executor": "Run",
     "Application.CommonNamesFinder.executor": "Run",
     "Application.EvenOddSumInRange.executor": "Run",
     "Application.FactorialCalculator.executor": "Run",
@@ -49,6 +52,8 @@
     "Application.Homework08.executor": "Run",
     "Application.LetterFrequencyCounter.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NameIndexSearcher.executor": "Run",
+    "Application.NameListManager.executor": "Run",
     "Application.Palindrom.executor": "Run",
     "Application.PrimeNumbersInRange.executor": "Run",
     "Application.PrintNumbers1To10.executor": "Run",
@@ -80,9 +85,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CommonNamesFinder">
-    <configuration name="CommonNamesFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.CommonNamesFinder" />
+  <component name="RunManager" selected="Application.NameListManager">
+    <configuration name="CapitalCityLookup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.CapitalCityLookup" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenderCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.GenderCounter" />
+    <configuration name="CommonNamesFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.CommonNamesFinder" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.Shop" />
+    <configuration name="NameIndexSearcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.NameIndexSearcher" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -133,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_16_TextBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._16_TextBlocks" />
+    <configuration name="NameListManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.NameListManager" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.basics.*" />
+          <option name="PATTERN" value="main.java.com.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NameListManager" />
+        <item itemvalue="Application.NameIndexSearcher" />
+        <item itemvalue="Application.CapitalCityLookup" />
         <item itemvalue="Application.CommonNamesFinder" />
         <item itemvalue="Application.LetterFrequencyCounter" />
-        <item itemvalue="Application.GenderCounter" />
-        <item itemvalue="Application._16_TextBlocks" />
-        <item itemvalue="Application.Shop" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +203,9 @@
       <workItem from="1746013723584" duration="3736000" />
       <workItem from="1746019333617" duration="3697000" />
       <workItem from="1746024526232" duration="3176000" />
-      <workItem from="1746778606705" duration="6002000" />
+      <workItem from="1746778606705" duration="13192000" />
+      <workItem from="1746983890882" duration="710000" />
+      <workItem from="1747044453049" duration="4440000" />
     </task>
     <servers />
   </component>
