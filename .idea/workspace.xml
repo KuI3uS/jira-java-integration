@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71d240a-8a09-409d-b317-6e278514133d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/CarRentalApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/collections/ListRandomizer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     "Application.Homework07.executor": "Run",
     "Application.Homework08.executor": "Run",
     "Application.LetterFrequencyCounter.executor": "Run",
+    "Application.ListRandomizer.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NameIndexSearcher.executor": "Run",
     "Application.NameListManager.executor": "Run",
@@ -84,7 +84,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CarRentalApp">
+  <component name="RunManager" selected="Application.ListRandomizer">
     <configuration name="CapitalCityLookup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.collections.CapitalCityLookup" />
       <module name="jira-java-integration" />
@@ -111,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonNamesFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.CommonNamesFinder" />
+    <configuration name="ListRandomizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.ListRandomizer" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListRandomizer" />
         <item itemvalue="Application.CarRentalApp" />
         <item itemvalue="Application.NameListManager" />
         <item itemvalue="Application.NameIndexSearcher" />
         <item itemvalue="Application.CapitalCityLookup" />
-        <item itemvalue="Application.CommonNamesFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,7 @@
       <workItem from="1746778606705" duration="13192000" />
       <workItem from="1746983890882" duration="710000" />
       <workItem from="1747044453049" duration="5550000" />
-      <workItem from="1747130798593" duration="5535000" />
+      <workItem from="1747130798593" duration="8896000" />
     </task>
     <servers />
   </component>
