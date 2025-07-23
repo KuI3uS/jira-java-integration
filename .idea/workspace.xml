@@ -5,11 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71d240a-8a09-409d-b317-6e278514133d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/carProduct/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/carProduct/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/nameAge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/nameAge/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basics/_17_wrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/classMetodFinal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/classMetodFinal/Moderator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/classMetodFinal/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/enums/DaysOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/enums/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/enums/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/enums/StatusCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/finalVariables/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/finalVariables/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inheritance/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inheritance/Moderator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inheritance/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inter_face/LengthPasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inter_face/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inter_face/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inter_face/SpecialCharactersPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/inter_face/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/moderator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/moderator/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/moderator/newPack/Moderator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/moderator/newPack/Testclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/password/Passwordvalidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/password/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/Headphonees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/drive/Drive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/drive/HDDDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/drive/SSSDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/AbstractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/FileType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/image/AbstractImageFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/image/GIFImageFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/image/JPGImageFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/music/AbstractMusicFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/music/MP3File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/file/music/MusicFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/usbdevice/MemoryStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/usbdevice/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop_projekt/usbdevice/USBDevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/carProduct/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/carProduct/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/carProduct/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/object_oriented_programming/carProduct/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +61,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +122,13 @@
     &quot;Application._14_HaszMap.executor&quot;: &quot;Run&quot;,
     &quot;Application._15_Break_continue.executor&quot;: &quot;Run&quot;,
     &quot;Application._16_TextBlocks.executor&quot;: &quot;Run&quot;,
+    &quot;Application._17_wrapperClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
     &quot;Application.main.java.com.object_oriented_programming.carProduct.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.java.com.object_oriented_programming.enums.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.java.com.object_oriented_programming.finalVariables.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.java.com.object_oriented_programming.inter_face.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.java.com.oop_projekt.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -89,39 +139,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CarRentalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.CarRentalApp" />
-      <module name="jira-java-integration" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListRandomizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.ListRandomizer" />
-      <module name="jira-java-integration" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.com.oop_projekt.file" />
+      <recent name="main.java.com.oop_projekt" />
+      <recent name="main.java.com.object_oriented_programming.inter_face" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main.java.com.oop_projekt.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.object_oriented_programming.nameAge.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.object_oriented_programming.classMetodFinal.Main" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.object_oriented_programming.carProduct.*" />
+          <option name="PATTERN" value="main.java.com.object_oriented_programming.classMetodFinal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameListManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.collections.NameListManager" />
+    <configuration name="_17_wrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.basics._17_wrapperClasses" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.collections.*" />
+          <option name="PATTERN" value="main.java.com.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +173,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.com.object_oriented_programming.carProduct.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.object_oriented_programming.carProduct.Main" />
+    <configuration name="main.java.com.object_oriented_programming.enums.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.object_oriented_programming.enums.Main" />
       <module name="jira-java-integration" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.object_oriented_programming.carProduct.*" />
+          <option name="PATTERN" value="main.java.com.object_oriented_programming.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.com.object_oriented_programming.inter_face.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.object_oriented_programming.inter_face.Main" />
+      <module name="jira-java-integration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.object_oriented_programming.inter_face.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.com.oop_projekt.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.oop_projekt.Main" />
+      <module name="jira-java-integration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.oop_projekt.drive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.java.com.oop_projekt.Main" />
+        <item itemvalue="Application.main.java.com.object_oriented_programming.enums.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main.java.com.object_oriented_programming.carProduct.Main" />
-        <item itemvalue="Application.ListRandomizer" />
-        <item itemvalue="Application.CarRentalApp" />
-        <item itemvalue="Application.NameListManager" />
+        <item itemvalue="Application._17_wrapperClasses" />
+        <item itemvalue="Application.main.java.com.object_oriented_programming.inter_face.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +275,17 @@
       <workItem from="1749644662366" duration="1520000" />
       <workItem from="1749733135863" duration="57000" />
       <workItem from="1751551452340" duration="5510000" />
-      <workItem from="1751899506772" duration="4047000" />
+      <workItem from="1751899506772" duration="6877000" />
+      <workItem from="1752069209922" duration="5718000" />
+      <workItem from="1752260892226" duration="1656000" />
+      <workItem from="1752262556028" duration="1394000" />
+      <workItem from="1752346356829" duration="1548000" />
+      <workItem from="1752426306971" duration="2195000" />
+      <workItem from="1752479493371" duration="13270000" />
+      <workItem from="1752748808645" duration="2943000" />
+      <workItem from="1752841709700" duration="1498000" />
+      <workItem from="1752845586536" duration="1562000" />
+      <workItem from="1753192547362" duration="11569000" />
     </task>
     <servers />
   </component>
